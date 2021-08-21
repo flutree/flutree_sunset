@@ -1,0 +1,10 @@
+body {
+  font-family: "Karla", sans-serif;
+  max-width: 550px;
+  padding: 35px;
+}
+
+p {
+  text-align: justify;
+  text-justify: inter-word;
+}
