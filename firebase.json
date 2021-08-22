@@ -1,0 +1,14 @@
+{
+  "hosting": {
+    "public": ".",
+    "cleanUrls": true,
+    "site": "flutree",
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
