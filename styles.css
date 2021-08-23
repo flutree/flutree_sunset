@@ -12,9 +12,10 @@ p {
 
 .linkText {
   font-family: "Space Mono", monospace;
+  font-size: 14px;
   text-decoration: none;
-  margin-right: 20px;
-  padding: 2px 10px;
+  margin-right: 10px;
+  padding: 1px 8px;
   background: black;
   color: white;
 
