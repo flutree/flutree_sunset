@@ -2,7 +2,7 @@
   "hosting": {
     "public": ".",
     "cleanUrls": true,
-    "site": "flutreecreate",
+    "site": "flutree",
     "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
     "rewrites": [
       {
